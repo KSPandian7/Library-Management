@@ -23,5 +23,27 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### UML Diagrams:
 
+```c
+KULASEKARAPANDIAN K
+212222240052
+```
+#### Use Case Diagram:
+![op](image.png)
+
+#### Activity Diagram:
+![op](image-1.png)
+
+#### Sequence Diagram:
+![op](image-2.png)
+
+#### Class Diagarm:
+![op](image-3.png)
+
+#### Package Diagram:
+![op](image-4.png)
+
+#### Communication Diagram:
+![op](image-5.png)
+
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
